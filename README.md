@@ -46,7 +46,7 @@
 
 + #### [Java Примеры в репозитории](https://github.com/Ekaterina5885?page=2&tab=repositories)
 
-+ #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Java_Project](https://github.com/Kostya5885/Java_Project/blob/master/src/test/java/ru/netology/test/CreditCardPaymentTest.java)
++ #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Java_Project](https://github.com/Kostya5885/Java_Project)
 
 + #### [UI Automator Viewer](https://github.com/Ekaterina5885/DZ-UIAutomator)
 
