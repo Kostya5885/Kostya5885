@@ -42,9 +42,11 @@
   
 ### Вот что я умею:
 
-+ ####  Espresso, Android Studio [Автоматизация тестирования мобильного приложения  "Мобильный хоспис"]()
-
 + #### [Тесты на Java](https://github.com/Kostya5885/Java_Project/blob/master/src/test/java/ru/netology/test/DebitCardPaymentTest.java)
+
+### Мои учебные проекты:
+
++ ####  Espresso, Android Studio [Автоматизация тестирования мобильного приложения  "Мобильный хоспис"]()
 
 + #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Java_Project](https://github.com/Kostya5885/Java_Project)
 
