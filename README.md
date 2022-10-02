@@ -50,6 +50,6 @@
 
 + #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Java_Project](https://github.com/Kostya5885/Java_Project)
 
-+ #### [UI Automator Viewer]()
++ #### [UI Automator Viewer](https://github.com/Kostya5885/UI-Automator-Viewer)
 
 + #### [Appium]()
