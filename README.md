@@ -12,9 +12,9 @@
 
   ---
   
-+ #### Привет! :wave:
+#### Привет! :wave:
 
-+ #### Я - Константин, тестировщик мобильных приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+#### Я - Константин, тестировщик мобильных приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
  
   ---
 
