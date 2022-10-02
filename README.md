@@ -43,7 +43,7 @@
 ### Вот что я умею:
 
 + #### [Тесты на Java](https://github.com/Kostya5885/Java_Project/blob/master/src/test/java/ru/netology/test/DebitCardPaymentTest.java)
-
+  ---
 ### Мои учебные проекты:
 
 + ####  Espresso, Android Studio [Автоматизация тестирования мобильного приложения  "Мобильный хоспис"]()
