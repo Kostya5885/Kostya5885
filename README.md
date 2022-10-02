@@ -40,12 +40,19 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kostya5885&theme=dark&background=000000)](https://git.io/streak-stats)
   ---
   
-### Вот что я умею:
+### Тестовая документация (Примеры работ):
+  
++ #### [План тестирования]()
++ ####  [Чек-лист]()
++ ####  [Тест-кейсы]()
++ ####  [Баг-репорты]()
++ ####  [Отчёт о результатах тестирования]()
 
-+ #### [Тесты на Java](https://github.com/Kostya5885/Java_Project/blob/master/src/test/java/ru/netology/test/DebitCardPaymentTest.java)
   ---
-### Мои учебные проекты:
 
+### Мои учебные проекты:
++ #### [Тесты на Java](https://github.com/Kostya5885/Java_Project/blob/master/src/test/java/ru/netology/test/DebitCardPaymentTest.java)
+  
 + ####  Espresso, Android Studio [Автоматизация тестирования мобильного приложения  "Мобильный хоспис"]()
 
 + #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Java_Project](https://github.com/Kostya5885/Java_Project)
