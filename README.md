@@ -52,6 +52,8 @@
 
 ### Мои проекты:
 + #### [Тесты на Java](https://github.com/Kostya5885/Java_Project/blob/master/src/test/java/ru/netology/test/DebitCardPaymentTest.java)
+
++ #### [Примеры тестов Espresso, Android Studio, Java](https://github.com/Kostya5885/App/blob/master/src/androidTest/java/ru/netology/diploma/AllClaimsTest.java)
   
 + ####  Espresso, Android Studio [Автоматизация тестирования мобильного приложения  "Мобильный хоспис"]()
 
