@@ -54,9 +54,7 @@
 ### Мои проекты:
 + #### [Тесты на Java](https://github.com/Kostya5885/Java_Project/blob/master/src/test/java/ru/netology/test/DebitCardPaymentTest.java)
 
-+ #### [Примеры тестов Espresso, Android Studio, Java](https://github.com/Kostya5885/App/blob/master/src/androidTest/java/ru/netology/diploma/AllClaimsTest.java)
-  
-+ ####  Espresso, Android Studio [Автоматизация тестирования мобильного приложения  "Мобильный хоспис"]()
++ #### [Примеры тестов Espresso, Android Studio, Java Проект "Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Kostya5885/App/blob/master/src/androidTest/java/ru/netology/diploma/AllClaimsTest.java)
 
 + #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Java_Project](https://github.com/Kostya5885/Java_Project)
 
