@@ -42,11 +42,11 @@
   
 ### Тестовая документация (Примеры работ):
   
-+ #### [План тестирования]()
++ #### [План тестирования](https://github.com/Kostya5885/Espresso/blob/master/Plan.md)
 + ####  [Чек-лист](https://docs.google.com/spreadsheets/d/1UPXZ_6kE3ve_GJsZIq27e3ewNlH4LN4Y/edit?usp=sharing&ouid=111413703615249010797&rtpof=true&sd=true)
 + ####  [Тест-кейсы](https://docs.google.com/spreadsheets/d/1r0SlL5bn3eBbOO9D58RtfiODwoBAQLzH/edit?usp=sharing&ouid=111413703615249010797&rtpof=true&sd=true)
 + ####  [Баг-репорты](https://docs.google.com/spreadsheets/d/1Jb_RTo9ZhOUrywwdbr6iB47FSzgoOu-8FdLTtcD-sLI/edit?usp=sharing)
-+ ####  [Отчёт о результатах тестирования]()
++ ####  [Отчёт о результатах тестирования](https://github.com/Kostya5885/Espresso/blob/master/Result.md)
 
   ---
 
