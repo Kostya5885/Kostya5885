@@ -60,3 +60,5 @@
 + #### [UI Automator Viewer](https://github.com/Kostya5885/UI-Automator-Viewer)
 
 + #### [Appium](https://github.com/Kostya5885/Appium)
+
++ #### [Java, JUnit, Selenide, Appveyor](https://github.com/Kostya5885/Selenide)
